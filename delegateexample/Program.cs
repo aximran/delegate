@@ -7,7 +7,7 @@ namespace delegateexample
 {
     class TestDelegate
     {
-        static int num = 7;
+        static int num = 8;
         public static int AddNum(int p)
         {
             num += p;
